@@ -5,6 +5,12 @@
 # MACHINE LEARNING (ML)
 Development of a Machine Learning model for the prognosis of COVID-19 in terms of SEVERITY using laboratory biomarkers. The data are from examinations of patients treated at the Hospital de Clínicas of the Federal University of Paraná.
 
+# DATASET
+* COVID19-DataSetSeverity.csv
+
+# SOURCE CODE IN PYTHON
+* COVID19-Machine_Learning_Biomarkers.ipynb
+ 
 # LEGEND:
 Sex:
 * 1=Female
@@ -18,6 +24,3 @@ Sex:
 * Non-Severe (Mild to Moderate - Outpatients)
 # Period of the Samples:
 * March 2020 to September 2022
-
-# OBJECTIVE:
-Develop a Machine Learning model to predict the severity of COVID-19 and identify biomarkers associated with this severity in order to optimize priority in hospital care.
