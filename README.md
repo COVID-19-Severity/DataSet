@@ -1,4 +1,4 @@
-# :: SCRIPT AUTHORS ::
+# :: SCRIPT AUTHOR ::
 * Ademir Luiz do Prado
 
 # MACHINE LEARNING (ML)
