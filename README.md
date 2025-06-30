@@ -6,8 +6,11 @@ Development of a Machine Learning model for the prognosis of COVID-19 in terms o
 # DATASET
 * SEVERITY.csv
 
+# DESCRIPTIVE STATISTICS
+* Descriptive statistics and box plot graphics.pdf
+
 # SOURCE CODE IN PYTHON
-* COVID19-Severity.ipynb
+* COVID19_Severity.ipynb
  
 # LEGEND:
 Sex:
