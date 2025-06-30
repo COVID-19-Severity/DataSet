@@ -4,10 +4,10 @@
 Development of a Machine Learning model for the prognosis of COVID-19 in terms of SEVERITY using laboratory biomarkers. The data are from examinations of patients treated at the Hospital de Clínicas of the Federal University of Paraná.
 
 # DATASET
-* COVID19-DataSetSeverity.csv
+* SEVERITY.csv
 
 # SOURCE CODE IN PYTHON
-* COVID19-Machine_Learning_Biomarkers.ipynb
+* COVID19-Severity.ipynb
  
 # LEGEND:
 Sex:
